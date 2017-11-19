@@ -1,0 +1,23 @@
+{
+  "name": "cors-proxy-with-server",
+  "version": "1.0.0",
+  "description": "CORS Anywhere proxy with static server",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jefferyhoffman/cors-proxy-with-server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jefferyhoffman/cors-proxy-with-server/issues"
+  },
+  "homepage": "https://github.com/jefferyhoffman/cors-proxy-with-server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
